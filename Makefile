@@ -1,0 +1,4 @@
+ginkgo:
+	ginkgo ./...
+
+.PHONY: ginkgo
